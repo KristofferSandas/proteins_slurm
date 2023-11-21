@@ -1,1 +1,1 @@
-# proteins_slurm
+Some scripts for using HPC server.
